@@ -1,5 +1,6 @@
 package com.strategy.two.context;
 
-public class Contexy {
+public class Context {
 
 }
+
